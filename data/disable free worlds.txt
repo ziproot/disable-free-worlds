@@ -1,0 +1,7 @@
+disable mission "Pact Recon 0"
+disable event
+  "war begins"
+  "initial deployment 1"
+  "initial deployment 2"
+  "initial deployment 3"
+  "initial deployment 4"
